@@ -60,3 +60,6 @@ This is an example of a *text with an asterisk*. When we don't want it to be ita
 **NOTE**: We would want to put the link description inside of square brackets and the link to the resource inside of two open and close parenthesis
 [Charlotte May pexels gallery](https://images.pexels.com/photos/5946966/pexels-photo-5946966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
+__NOTE__: We can a baloon tip description to our link by using double quotes after the link to the resource
+[Charlotte May pexels gallery](https://images.pexels.com/photos/5946966/pexels-photo-5946966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "This is from Charlotte May pexel photo gallery")
+

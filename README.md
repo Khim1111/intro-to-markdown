@@ -132,3 +132,16 @@ __NOTE__: We can a baloon tip description to our link by using double quotes aft
 
 ![This is an image](https://images.pexels.com/photos/3551722/pexels-photo-3551722.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "Link to a coffee image")
 
+
+---
+
+<!--GITHUB FLAVOR SET OF CODE BLOCK-->
+
+<!--CODE BLOCKS FOR GITHUB DOCUMENTATIONA-->
+
+```install npm
+npm install
+
+npm start
+```
+

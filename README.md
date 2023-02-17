@@ -165,3 +165,16 @@ npm start
       return total;
    }  
 ```
+
+---
+
+<!--TABLE RULES-->
+
+| Name | Nickname | Email |
+|------|----------|-------|
+| John | Jo       |john@gmail.com|
+| Khim | Khim     |khim@gmail.com|
+| Lisa | Lily     |lily@gmail.com|
+
+
+
